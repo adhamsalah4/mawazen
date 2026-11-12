@@ -1,0 +1,1 @@
+ALTER TABLE legalCrawlerRuns MODIFY COLUMN `error` LONGTEXT NULL;
